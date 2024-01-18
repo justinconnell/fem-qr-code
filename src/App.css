@@ -36,30 +36,3 @@ main {
   align-items: center;
   justify-content: center;
 }
-
-.card {
-  width: 32rem;
-  padding: 1.5rem;
-  margin: 1.5rem;
-  background: var(--white);
-  border-radius: 10px;
-}
-
-.card--shadow {
-  box-shadow: 10px 10px 15px rgb(31, 50, 81, 0.1);
-}
-
-.card__img {
-  width: 100%;
-  border-radius: 10px;
-}
-
-.card__heading {
-  color: var(--dark-blue);
-  margin-top: 1.5rem;
-}
-
-.card__text {
-  color: var(--grayish-blue);
-  margin: 2rem;
-}
